@@ -1,0 +1,9 @@
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\obj\Debug\Taskbar Test.csprojResolveAssemblyReference.cache
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\obj\Debug\Taskbar_Test.Properties.Resources.resources
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\obj\Debug\Taskbar Test.csproj.GenerateResource.Cache
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\obj\Debug\Taskbar Test.csproj.CoreCompileInputs.cache
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\bin\Debug\Power Plan Switcher.exe.config
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\bin\Debug\Power Plan Switcher.exe
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\bin\Debug\Power Plan Switcher.pdb
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\obj\Debug\Power Plan Switcher.exe
+C:\Users\marda\Documents\prog\wf-taskbar-test\Taskbar Test\obj\Debug\Power Plan Switcher.pdb

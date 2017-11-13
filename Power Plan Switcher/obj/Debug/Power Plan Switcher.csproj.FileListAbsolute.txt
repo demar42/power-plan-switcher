@@ -1,0 +1,18 @@
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\bin\Debug\Power Plan Switcher.exe.config
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\bin\Debug\Power Plan Switcher.exe
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\bin\Debug\Power Plan Switcher.pdb
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\obj\Debug\Power Plan Switcher.csprojResolveAssemblyReference.cache
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\obj\Debug\Taskbar_Test.Properties.Resources.resources
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\obj\Debug\Power Plan Switcher.csproj.GenerateResource.Cache
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\obj\Debug\Power Plan Switcher.csproj.CoreCompileInputs.cache
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\obj\Debug\Power Plan Switcher.exe
+C:\Users\marda\Documents\prog\release\wf-taskbar-test\Taskbar Test\obj\Debug\Power Plan Switcher.pdb
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\bin\Debug\Power Plan Switcher.exe.config
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\bin\Debug\Power Plan Switcher.exe
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\bin\Debug\Power Plan Switcher.pdb
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\obj\Debug\Power Plan Switcher.csprojResolveAssemblyReference.cache
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\obj\Debug\Taskbar_Test.Properties.Resources.resources
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\obj\Debug\Power Plan Switcher.csproj.GenerateResource.Cache
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\obj\Debug\Power Plan Switcher.csproj.CoreCompileInputs.cache
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\obj\Debug\Power Plan Switcher.exe
+C:\Users\marda\Documents\prog\release\wf-powerplanswitcher\Power Plan Switcher\obj\Debug\Power Plan Switcher.pdb
